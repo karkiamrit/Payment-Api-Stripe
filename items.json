@@ -26,6 +26,17 @@
         }
     ],
     "merch":[
-
+        {
+            "id":5,
+            "name":"T-Shirt",
+            "price":1999,
+            "imgName":"Shirt.png"
+        },
+        {
+            "id":6,
+            "name":"Coffee Cup",
+            "price":699,
+            "imgName":"Cofee.jpg"
+        }
     ]
 }

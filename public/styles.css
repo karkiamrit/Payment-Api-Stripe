@@ -218,12 +218,15 @@ html, body {
 
 .shop-item-image {
     height: 250px;
+   
 }
 
 .shop-item-details {
     display: flex;
     align-items: center;
     padding: 5px;
+    
+   
 }
 
 .shop-item-price {
